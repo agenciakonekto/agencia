@@ -32,7 +32,7 @@
             scrollingSpeed: 280,
             navigation:false,
             menu: '.navbar-nav',
-            anchors: ['home', 'sobre', 'experience', 'skills', 'projects', 'partners', 'testimonials', 'news', 'contact'],
+            anchors: ['HOME', 'SOBRE', 'METODOLOGIA', 'PARCEIRA', 'SERVICOS', 'CONSULTORIA', 'CONTATO'],
             afterRender: function(anchorLink, index){ 
               NavbarColor();
 
