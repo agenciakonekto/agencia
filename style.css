@@ -10484,6 +10484,7 @@ div.tp-bullets{
     margin-bottom: 28px;
     padding-right: 100px;
 }
+
 .home8-top .h4-social-icons {
     top: 32%;
 }
@@ -11721,6 +11722,7 @@ div.tp-bullets{
   .services-content-marketing {
     display: none;
   }
+
 }
 @media (max-width: 1200px) {
   .home8-about-img {
@@ -11734,6 +11736,9 @@ div.tp-bullets{
   }
   .home8-about-block {
     margin-left: 0;
+  }
+  .home8-top-right-block p {
+    padding: 0;
   }
   .h4-social-icons {
     display: none;
