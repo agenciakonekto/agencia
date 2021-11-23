@@ -10678,7 +10678,7 @@ div.tp-bullets{
     box-shadow: 23px 23px 32px 0 rgba(254,76,28,.33);
     margin-top: -150px;
     margin-bottom: 0;
-    padding: 60px 60px 60px 60px;
+    padding: 60px 60px 60px 30px;
     background-color: transparent;
     background-image: linear-gradient(90deg,#FF403E 0%,#FF811B 100%);
     border-radius: 15px 15px 15px 15px;
@@ -10703,6 +10703,10 @@ div.tp-bullets{
     font-size: 16px;
     line-height: 1.4em;
     font-family: "Red Hat Display",sans-serif;
+}
+.newsletter-button{
+  margin-top: 30px;
+  margin-left: 60px;
 }
 /* About */
 .about-swrap-top-1 {
