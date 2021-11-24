@@ -2115,7 +2115,7 @@ td {
   margin: 0;
   text-decoration: none;
   white-space: nowrap;
-  vertical-align: middle;
+  vertical-align: center;
   font-weight: bold;
   letter-spacing: 0;
   text-align: center;
@@ -2124,7 +2124,7 @@ td {
   border: 1px solid transparent;
   outline: 0;
   box-sizing: border-box;
-  color: #fff;
+  color: #fe4c1c;
   position: relative;
   font-family: "Red Hat Display", sans-serif;
   overflow: hidden;
@@ -2136,16 +2136,16 @@ td {
   -moz-box-shadow: 12px 12px 20px 0px rgba(254, 76, 28, 0.3);
 }
 .octf-btn:visited {
-  color: #fff;
+  color: #fe4c1c;
 }
 .octf-btn:hover, .octf-btn:focus {
-  color: #fff;
+  color: #fe4c1c;
 }
 .octf-btn:hover, .octf-btn:focus {
   box-shadow: none;
 }
 .octf-btn.octf-btn-white {
-  background: #ffffff;
+  background: #fe4c1c;
   box-shadow: 6px 6px 13px 0px rgba(42, 67, 113, 0.15);
   -webkit-box-shadow: 6px 6px 13px 0px rgba(42, 67, 113, 0.15);
   -moz-box-shadow: 6px 6px 13px 0px rgba(42, 67, 113, 0.15);
@@ -2153,7 +2153,7 @@ td {
 }
 .octf-btn.octf-btn-white i {
   background: #fe4c1c;
-  color: #ffffff;
+  color: #fe4c1c;
 }
 .octf-btn.octf-btn-white:visited, .octf-btn.octf-btn-white:hover, .octf-btn.octf-btn-white:focus {
   color: #fe4c1c;
@@ -2185,7 +2185,7 @@ td {
 }
 
 .octf-btn-icon {
-  text-align: left;
+  text-align: center;
   padding: 5px 5px 5px 28px;
 }
 .octf-btn-icon i {
@@ -2225,7 +2225,7 @@ td {
 }
 
 .octf-btn-secondary {
-  background: #00c3ff;
+  background: #fcfcfc;
 }
 .octf-btn-secondary.octf-btn {
   box-shadow: 12px 12px 20px 0px rgba(0, 195, 255, 0.3);
@@ -2238,19 +2238,19 @@ td {
   -moz-box-shadow: 8px 8px 18px 0px rgba(0, 195, 255, 0.3);
 }
 .octf-btn-secondary i {
-  color: #00c3ff;
+  color: #fcfcfc;
 }
 .octf-btn-secondary.octf-btn-white {
-  color: #00c3ff;
+  color: #fcfcfc;
   box-shadow: 6px 6px 13px 0px rgba(42, 67, 113, 0.15);
   -webkit-box-shadow: 6px 6px 13px 0px rgba(42, 67, 113, 0.15);
   -moz-box-shadow: 6px 6px 13px 0px rgba(42, 67, 113, 0.15);
 }
 .octf-btn-secondary.octf-btn-white:visited, .octf-btn-secondary.octf-btn-white:hover, .octf-btn-secondary.octf-btn-white:focus {
-  color: #00c3ff;
+  color: #fcfcfc;
 }
 .octf-btn-secondary.octf-btn-white i {
-  background: #00c3ff;
+  background: #fcfcfc;
 }
 .octf-btn-secondary:hover, .octf-btn-secondary:focus {
   box-shadow: none;
@@ -3111,7 +3111,7 @@ a:hover, a:active {
 /* Header Call To Action */
 .octf-btn-cta {
   display: inline-flex;
-  vertical-align: middle;
+  vertical-align: center;
   position: relative;
 }
 .octf-btn-cta .toggle_search {
@@ -3152,7 +3152,7 @@ a:hover, a:active {
   text-align: center;
   display: inline-block;
   margin-left: 10px;
-  vertical-align: middle;
+  vertical-align: center;
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
